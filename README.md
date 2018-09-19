@@ -1,4 +1,4 @@
-Scrapes event data from [Oregonians United Against Profiling event site](https://orunited.org/events) and uploads them to the [SURJPDX event calendar](https://www.surjpdx.com/calendar/surj-pdx-calendar/).
+Scrapes event data from [Oregonians United Against Profiling event site](https://orunited.org/events) and uploads them to the [SURJPDX event calendar](https://www.surjpdx.com/calendar/surj-pdx-calendar/). RSVP links are modified wherever possible to pre-populate the "Which organization recruited you?" question with "SURJ PDX".
 
 ### Setup
 ```

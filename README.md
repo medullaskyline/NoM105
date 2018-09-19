@@ -1,4 +1,4 @@
-Scrapes event data from `orunited.org/events` and uploads them to the [SURJPDX event calendar](https://www.surjpdx.com/calendar/surj-pdx-calendar/).
+Scrapes event data from [Oregonians United Against Profiling event site](https://orunited.org/events) and uploads them to the [SURJPDX event calendar](https://www.surjpdx.com/calendar/surj-pdx-calendar/).
 
 ### Setup
 ```

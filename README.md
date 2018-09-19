@@ -22,3 +22,4 @@ Change the `CAL_ID` and `CRED_FILE` variables to reflect your Google Calendar ID
 $ python calendar_events.py
 ```
 
+https://orunited.org/s/OneOregon-11x17PosterForPrint-layers.jpg
